@@ -1,0 +1,13 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "A simple but powerful **in-memory cache** written in plain JavaScript.   It stores data in memory (RAM) so you can get it back very fast later.   Perfect for caching API responses, database results, computed values, or any temporary data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["in-memory", "cache system", "memory db"],
+  "author": "Amk <abdulamk2406@gmail.com>",
+  "license": "ISC",
+  "type": "module"
+}
