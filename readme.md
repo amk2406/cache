@@ -57,15 +57,15 @@ There is no special installation. Just copy the `Cache` class into your project.
 ### In Node.js
 
 ```bash
-npm install cache
+npm install git+https://github.com/amk2406/cache.git
 ```
 Or clone the cache file repo, https://github.com/amk2406/cache.git
 
 ```js
-// cache.js  (the file that contains the class)
-const Cache = require('./cache.js');   // if you use CommonJS
+//index.js  (the file that contains the class)
+const Cache = require('./index.js');   // if you use CommonJS
 // or
-import Cache from './cache.js';        // if you use ES modules
+import Cache from './index.js';        // if you use ES modules
 ```
 
 ### In the browser
