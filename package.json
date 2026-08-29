@@ -9,5 +9,5 @@
   "keywords": ["in-memory", "cache system", "memory db"],
   "author": "Amk <abdulamk2406@gmail.com>",
   "license": "ISC",
-  "type": "module"
+  "type": "commonjs"
 }
