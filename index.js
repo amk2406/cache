@@ -493,5 +493,8 @@ class Cache {
 }
 
 // Optional: export for modules
-// module.exports = Cache;
-export default Cache;
+if(typeof document === undefine){
+    module.export = Catch
+} else{
+    window.Cache = Catch
+}
